@@ -1,4 +1,4 @@
-# NodeJSLocal
+# URL Shortner - NodeJSLocal
 URL shortner: This is a Web App for shortening Long Urls. 
 
 These Short URLs when accessed redirect you to the original long url.
