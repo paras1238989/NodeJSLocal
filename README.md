@@ -14,7 +14,7 @@ Running on localhost:3000
 To start this app:
 
 1. Install NodeJS and npm using sudo apt-get install
-2. Colne or download this folder locally.
+2. Clone or download this folder locally.
 3. Go to the directory where index.js is present
 4. Type - node index.js
     This will start the server.
